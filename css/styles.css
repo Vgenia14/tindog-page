@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Noto+Sans+Balinese:wght@700&family=Nunito:wght@800&family=Raleway:wght@900&display=swap");
+body {
+  font-family: "Noto Sans Balinese", sans-serif;
+  width: 100vw;
+  height: 100vh;
+}
+
+#title {
+  background-color: rgb(243, 72, 115);
+  height: 35%;
+  overflow: hidden;
+}
+#call_to_Action{
+  background-color: rgb(243, 72, 115);
+}
+.color_red{
+  background-color: rgb(240, 118, 118);
+}
+.text_red{
+color: rgb(240, 118, 118);
+}
+#header1{
+  /* height: 10%; */
+}
+
+
+
+.as {
+  display: grid;
+  grid-template-columns: 150px 150px 1fr 1fr;
+ 
+  gap:  5px;
+  width: 100vw;
+  height: 100vh;
+  background-color: aqua;
+}
+.fr{
+  background-color: red;
+}
+
+
+#nav_img{
+  position: relative;
+top: 25px;
+transform: rotate(22deg);
+}
+/*# sourceMappingURL=styles.css.map */

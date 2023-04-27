@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@900&family=Noto+Sans+Balinese:wght@700&family=Nunito:wght@800&family=Raleway:wght@900&display=swap");
+body {
+  font-family: "Noto Sans Balinese", sans-serif;
+}
+.navbar,
+#title,
+#cta {
+  background-color: $color1;
+}
+
+$color1: rgb(243, 72, 115);
+#title {
+  background-color: $color1;
+}
